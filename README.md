@@ -1,3 +1,3 @@
 Now i start my first project
 
-Step 1: add fail README.md
+Step 1: add file  README.md
